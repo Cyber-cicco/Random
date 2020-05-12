@@ -1,2 +1,2 @@
 # hello-world
-My first repository. Will be posting random stuff
+My first repository. I will be posting random stuff
